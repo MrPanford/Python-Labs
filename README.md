@@ -1,3 +1,3 @@
 # Python-Labs
-Self Assigned labs in Python
+Self Assigned labs in Python.
 Don't do anything that will get you in trouble.
