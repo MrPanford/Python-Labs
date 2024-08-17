@@ -1,4 +1,4 @@
-#bash runner
+#call bash commands from python
 
 import subprocess, sys
 command = sys.argv[1:]
